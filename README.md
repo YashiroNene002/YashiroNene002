@@ -17,9 +17,7 @@ technology           lanna
 <right>
 <img src='https://media.tenor.com/0kSH9Tfarc0AAAAC/kaguya-sama.gif' width='185'>
 </center>
-<left>
-<img src='https://media.tenor.com/Io5GoqpQmwsAAAAd/kaguya-sama-love-is-war-kaguya-sama.gif>' width='173'>
-</center>
+
 <right>
 <img src='https://media.tenor.com/qWCzDkHYKakAAAAC/chika-fujiwara-bonk.gif>' width='195'>
 </center>
