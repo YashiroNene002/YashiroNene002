@@ -27,10 +27,10 @@ Hi, my name is Phat Wongsawad. I'm a new software engineer from Chiang Mai, Thai
 ## ☯ My favorite game ☯
 <left>
 <img src='https://cdns.klimg.com/bola.net/library/upload/21/2018/09/645x430/dota-2-l_f41d019.jpg' width='220'>
-</center>
-<right>
+</left>
+<center>
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Osu%21_Logo_2016.svg/1200px-Osu%21_Logo_2016.svg.png width='150'>
 </center>
 <left>
 <img src='https://cdn.akamai.steamstatic.com/steam/apps/774171/capsule_616x353.jpg?t=1666837409' width='500'>
-</center>
+</left>
