@@ -14,13 +14,14 @@ Hi, my name is Phat Wongsawad. I'm a new software engineer from Chiang Mai, Thai
  <hr>
 <left>
 <img src='https://media.tenor.com/CFowpSoO7VsAAAAC/adad.gif' width='180'>
-</center>
+</left>
+<center>
 <img src='https://media.tenor.com/0kSH9Tfarc0AAAAC/kaguya-sama.gif' width='185'>
 </center>
 
 <right>
 <img src='https://media.tenor.com/qWCzDkHYKakAAAAC/chika-fujiwara-bonk.gif>' width='195'>
-</center>
+</right>
 <hr>
 
 ## ☯ My favorite game ☯
