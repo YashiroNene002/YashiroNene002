@@ -35,5 +35,4 @@ Hi, my name is Phat Wongsawad. I'm a new software engineer from Chiang Mai, Thai
 <left>
 <img src='https://cdn.akamai.steamstatic.com/steam/apps/774171/capsule_616x353.jpg?t=1666837409' width='500'>
 </left>
-<img src='https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics&hl=th' width='500'>
-</left>
+
