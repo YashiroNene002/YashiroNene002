@@ -16,7 +16,6 @@ technology           lanna
 <left>
 <img src='https://media.tenor.com/CFowpSoO7VsAAAAC/adad.gif' width='180'>
 </center>
-<right>
 <img src='https://media.tenor.com/0kSH9Tfarc0AAAAC/kaguya-sama.gif' width='185'>
 </center>
 
