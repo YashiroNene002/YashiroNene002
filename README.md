@@ -1,12 +1,11 @@
 ## ☯ About me ☯
 Hi, my name is Phat Wongsawad. I'm a new software engineer from Chiang Mai, Thailand. I'm passionate about using technology to solve problems and make a difference in the world.
 
-❖ My name’s phat
+❖ My name’s Phat Wongsawad
 
 ❖ My hobby is read to novel
 
-❖ I am studying at rajamangala university of 
-technology           lanna
+❖ I am studying at rajamangala university of technology lanna
 <hr>
 
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069756007386)
