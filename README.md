@@ -14,7 +14,7 @@ Hi, my name is Phat Wongsawad. I'm a new software engineer from Chiang Mai, Thai
  <hr>
 
 <div style="text-align: center;">
-         <img width="400" src="https://media.tenor.com/CFowpSoO7VsAAAAC/adad.gif">
+         <img width="400" src="https://media.tenor.com/CFowpSoO7VsAAAAC/adad.gif" widh='185'>
       </div>
 
 <center>
